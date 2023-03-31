@@ -14,7 +14,6 @@
 
 * By using GitHub, I can collaborate easily and maintain a history of changes to my Publications.
 
-Thank you for visiting our repository and we hope you find it helpful in your own software engineering projects.
 
 ## **Kind Notice**
 
