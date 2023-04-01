@@ -1,5 +1,5 @@
 # **Security Automation Into CI/CD Pipelines**
-# **Introduction**
+## **Introduction**
 
 Popular data breaches and service outages are showing us that security cannot be a one-off time job, is negligible and can be executed only at the end of the final stages of application development.
 
