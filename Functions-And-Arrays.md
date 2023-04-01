@@ -1131,8 +1131,7 @@ int main() {
     
 * Finally, the program returns 0, indicating successful completion.
     
-
-**That's it for now, see you around!.**
+# **The End**
 
 
 ## **Kind Notice**
