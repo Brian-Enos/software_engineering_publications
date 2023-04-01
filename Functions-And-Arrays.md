@@ -1,5 +1,5 @@
 # **Functions and Arrays**
-# INTRODUCTION
+## **Introduction**
 
 Functions are self-contained blocks of code that perform a specific task. They are a fundamental building block of software development. Functions are used to break down complex programs into smaller, more manageable pieces of code that can be reused throughout the program or in other programs.
 
