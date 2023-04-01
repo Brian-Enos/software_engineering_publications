@@ -1477,7 +1477,7 @@ Based on the identified failure modes, the Chaos Engineering team designs and ex
 Once the experiments are complete, the results are carefully analyzed to identify any weaknesses or vulnerabilities in the system. This information is then used to make improvements to the system's design, infrastructure, or processes, to improve its resilience and reliability.
 
 
-# ***The End ***
+# ***The End***
 
 
 ## **Kind Notice**
