@@ -1172,7 +1172,7 @@ Procedures can take input arguments, but they do not have a return statement.
 
 **Thank you for taking the time to read up to this point.**
 
-**That’s it for now. So long!**
+## **The End**
 
 
 ## **Kind Notice**
