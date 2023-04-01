@@ -18,7 +18,7 @@
 ## **Kind Notice**
 
 * I'm always exploring new ways to optimize code and improve system performance, and I'm happy to share my knowledge with others.
-* I hope that my examples and projects will be useful to those looking to learn more about low-level programming or those looking to improve their skills in this field.
+* I hope that my examples and projects will be useful to those looking to learn more software engineering  or those looking to improve their skills in this field.
 
 * Please feel free to contribute to this repository or reach out to me with any questions or suggestions.
 
