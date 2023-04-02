@@ -446,7 +446,7 @@ Motorcycles before applying append() method
 
 **Method 2**
 
-Append method \*\*\[append()\]\*\*makes it easy to build lists dynamically
+Append method ***append()*** makes it easy to build lists dynamically
 
 You can start with an empty list and then append elements to the list with a series of append calls.
 
